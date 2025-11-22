@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0757-set-intersection-size-at-least-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
