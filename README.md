@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
