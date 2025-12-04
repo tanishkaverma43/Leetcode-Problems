@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [2211-count-collisions-on-a-road](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
