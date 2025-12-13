@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3433-count-mentions-per-user](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3606-coupon-code-validator](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [2211-count-collisions-on-a-road](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Sorting
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
