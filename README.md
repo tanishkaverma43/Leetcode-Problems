@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1262-greatest-sum-divisible-by-three](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Math
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Tree
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Depth-First Search
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 <!---LeetCode Topics End-->
