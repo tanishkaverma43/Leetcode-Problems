@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
@@ -149,9 +150,22 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
