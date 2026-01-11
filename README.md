@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0757-set-intersection-size-at-least-two](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0757-set-intersection-size-at-least-two) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 ## Enumeration
 |  |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/tanishkaverma43/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
